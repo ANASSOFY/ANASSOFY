@@ -1,67 +1,54 @@
-<h1 align="center">Hi 👋, I'm Anas Sofy</h1>
-<h3 align="center">Flutter Developer | Computer Science Student</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student;Always+Learning+New+Technologies" />
-</p>
+<h1 align="center">Hi 👋, I'm Anas</h1>
+<h3 align="center">Computer Science Student | Flutter Developer</h3>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
-* 📱 Flutter Developer
-* 🌐 Web Development Experience
-* 🚀 Passionate about building modern mobile apps
-* 📚 Always learning new technologies
+* 📱 Flutter Mobile App Developer
+* 🌐 Basic Web Development (HTML, CSS, JavaScript)
+* 🚀 Interested in building useful mobile applications
+* 📚 Currently improving my Flutter and programming skills
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Skills
 
-<p align="center">
+<p>
 
-<a href="mailto:anassofy805@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ANASSOFY">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anas-sofy-5339802a5">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,github,vscode" />
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 📱 My Projects
 
-<p align="center">
+Here are some of the projects I built while learning Flutter:
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,git,github,vscode" />
+* 📊 **BMI Calculator App**
+* 📝 **Taskati – Task Manager App**
+* 💰 **Maaasrofyyy – Expense Tracker**
 
-</p>
-
----
-
-# 🚀 My GitHub Projects
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANASSOFY&repo=Taskati&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANASSOFY&repo=Maaasrofyyy&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANASSOFY&repo=bmi_calculator&theme=tokyonight" />
+You can find all my projects here:
+👉 https://github.com/ANASSOFY?tab=repositories
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ANASSOFY&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASSOFY&layout=compact&theme=tokyonight"/>
 
@@ -69,34 +56,12 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🌐 Connect With Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ANASSOFY&theme=tokyonight"/>
-
-</p>
+* GitHub: https://github.com/ANASSOFY
+* LinkedIn: https://www.linkedin.com/in/anas-sofy-5339802a5
+* Email: [anassofy805@gmail.com](mailto:anassofy805@gmail.com)
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ANASSOFY&theme=algolia"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANASSOFY&theme=tokyo-night"/>
-
-</p>
-
----
-
-⭐ From [ANASSOFY](https://github.com/ANASSOFY)
+⭐ Always learning and improving.
